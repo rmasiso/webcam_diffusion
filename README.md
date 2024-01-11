@@ -1,6 +1,6 @@
 # webcam_diffusion
 
-This has the code for the YouTube Video on how to perform real-time generative ai with stable diffusion: using LCMs, SDXL Turbo, and StreamDiffusion. 
+This has the code for the YouTube Video on how to perform real-time generative ai with stable diffusion: using LCMs, ControlNet, SDXL Turbo, and StreamDiffusion. 
 
 [INSERT THUMBNAIL AND LINK HERE]
 
