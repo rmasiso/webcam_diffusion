@@ -2,7 +2,9 @@
 
 This has the code for the YouTube Video on how to perform real-time generative ai with stable diffusion: using LCMs, ControlNet, SDXL Turbo, and StreamDiffusion. 
 
-[INSERT THUMBNAIL AND LINK HERE]
+![youtube tutorial on stable diffusion real-time](https://i.ytimg.com/vi/Js5-oCSX4tk/maxresdefault.jpg)
+
+Follow along: https://youtu.be/Js5-oCSX4tk
 
 This should work on MacOS, Windows, and Linux systems.
 
